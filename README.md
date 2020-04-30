@@ -3,7 +3,6 @@ Adds Toast support
 
 <code>
     declare var MyToast: any;
-
     var myToast = new MyToast();
     myToast.showToast("Hello world!", {},
         (success) => {
