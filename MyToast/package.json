@@ -1,0 +1,27 @@
+{
+  "name": "cordova-plugin-rkmsnc-mytoast",
+  "version": "0.0.1",
+  "description": "Adds Toast support",
+  "cordova": {
+    "id": "cordova-plugin-rkmsnc-mytoast",
+    "platforms": [
+      "ios",
+      "android"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rkmsnc/cordova-plugin-rkmsnc-mytoast.git"
+  },
+  "keywords": [
+    "ecosystem:cordova",
+    "cordova-ios",
+    "cordova-android"
+  ],
+  "author": "Radha Krishna Eedulakanti",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rkmsnc/cordova-plugin-rkmsnc-mytoast/issues"
+  },
+  "homepage": "https://github.com/rkmsnc/cordova-plugin-rkmsnc-mytoast#readme"
+}
